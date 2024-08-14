@@ -1,0 +1,4 @@
+pandas==2.2.2
+ccxt==4.3.82
+time
+json
